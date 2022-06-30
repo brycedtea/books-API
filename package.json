@@ -1,0 +1,26 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "Activity-Books API (be-11-books-api)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycedtea/books-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brycedtea/books-API/issues"
+  },
+  "homepage": "https://github.com/brycedtea/books-API#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1"
+  }
+}
